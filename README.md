@@ -1,5 +1,7 @@
 # ds-algo-notes
 
+## it does not matter the langauge when you do understand the terms of ds and algo, and basically in my sense pseudo code is important at first. but as all the high level languages are depended on low level languages and under the hood the are using that low level language, so it's better to practice ds algo with those low level langauge so that one can understand from the machine level.
+
 - ds is basically various way to store data in memory
 - big o is to find out the solution is best or worst
 - implementation is important to understand how to apply and why
